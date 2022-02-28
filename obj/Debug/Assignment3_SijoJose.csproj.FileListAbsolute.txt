@@ -1,0 +1,19 @@
+C:\Users\Sijo\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\Sijo\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\Sijo\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\Sijo\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Assignment3_SijoJose.csprojAssemblyReference.cache
+C:\Users\Sijo\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+C:\Users\Sijo\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\Sijo\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Assignment3_SijoJose.csproj.GenerateResource.cache
+C:\Users\Sijo\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\Sijo\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
+C:\Users\Sijo\OneDrive\Documents\c#\Assignment3_SijoJose\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\Sijo\OneDrive\Documents\c#\Assignment3_SijoJose\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\Sijo\OneDrive\Documents\c#\Assignment3_SijoJose\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\Sijo\OneDrive\Documents\c#\Assignment3_SijoJose\Simple Calculator\Simple Calculator\obj\Debug\Assignment3_SijoJose.csproj.AssemblyReference.cache
+C:\Users\Sijo\OneDrive\Documents\c#\Assignment3_SijoJose\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+C:\Users\Sijo\OneDrive\Documents\c#\Assignment3_SijoJose\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\Sijo\OneDrive\Documents\c#\Assignment3_SijoJose\Simple Calculator\Simple Calculator\obj\Debug\Assignment3_SijoJose.csproj.GenerateResource.cache
+C:\Users\Sijo\OneDrive\Documents\c#\Assignment3_SijoJose\Simple Calculator\Simple Calculator\obj\Debug\Assignment3_SijoJose.csproj.CoreCompileInputs.cache
+C:\Users\Sijo\OneDrive\Documents\c#\Assignment3_SijoJose\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\Sijo\OneDrive\Documents\c#\Assignment3_SijoJose\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
